@@ -1,0 +1,323 @@
+B.Duck	77
+Marisfrolg/玛丝菲尔	75
+罗拉密码	69
+YSL/圣罗兰	69
+贵人鸟	67
+SNOW FLYING/雪中飞	67
+Dior/迪奥	66
+PEACEBIRD/太平鸟	64
+富安娜	62
+ANTA/安踏	49
+Bvlgari/宝格丽	48
+Gucci/古驰	47
+Marie Elie	45
+Kans/韩束	42
+Jack Jones/杰克琼斯	36
+音儿	36
+Mark Fairwhale/马克华菲	35
+PSALTER/诗篇	35
+Amii	32
+INSUN/恩裳	32
+yaloo/雅鹿	31
+The history of whoo/后	31
+Apple/苹果	29
+REDDRAGONFLY/红蜻蜓	29
+Semir/森马	28
+MLB	28
+GXG	28
+Lining/李宁	27
+CARSLAN/卡姿兰	27
+PROYA/珀莱雅	27
+China Gold/中国黄金	25
+Hanhoo/韩后	24
+Royalstar/荣事达	24
+Bosideng/波司登	22
+Bear/小熊	22
+ZLF/周六福	22
+Huawei/华为	21
+Bobdog/巴布豆	21
+Goldfarm/高梵	21
+yaya/鸭鸭	20
+TST/庭秘密	20
+JUZUI/玖姿	19
+JEEP/吉普	19
+Romon/罗蒙	18
+L'OREAL /欧莱雅	17
+geoskincare/纽西之谜	17
+INMAN/茵曼	17
+老庙	17
+AMORTALS/尔木萄	16
+五粮液	16
+Givenchy/纪梵希	16
+Xiaomi/小米	16
+兰研（美妆）	15
+SULWHASOO/雪花秀	15
+CARTELO/卡帝乐鳄鱼	14
+好想你	14
+One Leaf/一叶子	13
+Peak/匹克	13
+Firs/杉杉	13
+巴拉巴拉	12
+透蜜	12
+Flyco/飞科	11
+MINISO/名创优品	11
+SK-II	11
+MARIE DALGAR/玛丽黛佳	10
+Laneige/兰芝	10
+HLA/海澜之家	10
+Deold/递欧	10
+AUX/奥克斯	9
+Lancome/兰蔻	9
+铜师傅	9
+LITTLEYOUNGER/小养	9
+Vaseline/凡士林	9
+Mini Balabala	8
+Meters Bonwe/美特斯邦威	8
+Disney/迪士尼	8
+pp/盼盼	8
+Shiseido/资生堂	8
+味滋源	8
+Filorga/菲洛嘉	8
+Estee Lauder/雅诗兰黛	7
+双立人	7
+开小差	7
+VOA	7
+Philips/飞利浦	7
+醉鹅娘	7
+hcgn/浒城古娘	7
+欧佩	7
+Morning Skin/玫莉蔻	6
+Marubi/丸美	6
+白象	6
+SUPOR/苏泊尔	6
+Xuelinfe/雪玲妃	6
+TCL	6
+田园主义	6
+NIANJEEP/吉普盾	6
+OPPO	6
+HOTATA/好太太	6
+ADAOFU/阿道夫	5
+御泥坊	5
+Little Dream Garden/半亩花田	5
+LEASUN FOOD/林家铺子	5
+朗菲	5
+韩熙贞	5
+浪莎	5
+MiiOW/猫人	5
+摩飞电器	5
+润百颜	5
+南极人	5
+欧丽源	5
+wis	5
+卫龙	5
+Lenovo/联想	5
+君乐宝	5
+UKIWI/纽西小精灵	5
+Moutai/茅台	4
+心相印	4
+福东海	4
+小奥汀	4
+木林森	4
+豆本豆	4
+伊诗兰顿	4
+Lock＆Lock/乐扣乐扣	4
+LUCKY KILA	4
+COLOR KEY	4
+Adidas/阿迪达斯	4
+Three Squirrels/三只松鼠	4
+Vero Moda	4
+watercome/水之蔻	4
+Kiehl＇s/科颜氏	4
+Deerma/德尔玛	4
+玛可安迪	4
+诺特兰德	4
+西域美农	4
+比芭美	4
+babycare	4
+Haier/海尔	4
+Purcotton/全棉时代	4
+cemoy	3
+SCOORNEST/科巢	3
+花皙蔻	3
+泸州老窖	3
+blispring/冰泉	3
+全兴	3
+Maybelline/美宝莲	3
+Remy Martin/人头马	3
+良品铺子	3
+MeiLing/美菱	3
+Midea/美的	3
+Konka/康佳	3
+蓝月亮	3
+Issey Miyake/三宅一生	3
+Cosme Decorte/黛珂	3
+HRL/哈肉联	3
+轩妈	3
+kafellon/凯芙兰	3
+天海藏	3
+蒙牛	3
+papa recipe	3
+BE＆CHEERY/百草味	3
+Joyoung/九阳	3
+洋河	3
+Zippo/芝宝	3
+BASEUS/倍思	3
+自然旋律	3
+诺梵	3
+Dr.Jart+/蒂佳婷	3
+OBBLIGATO/奥丽嘉朵	3
+红色小象	3
+HYUNDAI/现代	3
+Skechers/斯凯奇	3
+好欢螺	3
+Malata/万利达	3
+Blaupunkt	2
+KAO/花王	2
+梦洁	2
+Rellet/颐莲	2
+金龙鱼	2
+佳帮手	2
+Donlim/东菱	2
+JMSOLUTION	2
+蕉下	2
+JAYJUN	2
+PMPM	2
+IRIS/爱丽思	2
+Bioderma/贝德玛	2
+健美创研	2
+红谷林	2
+Goodbaby/好孩子	2
+康师傅	2
+毛戈平	2
+Armani/阿玛尼	2
+花西子	2
+福瑞达	2
+海飞丝	2
+网易严选	2
+innisfree/悦诗风吟	2
+Dr.Arrivo	2
+OCAK/欧扎克	2
+Hodo/红豆	2
+古方	2
+MAKE UP FOR EVER/玫珂菲	2
+FREEMORE/自由点	2
+透真	2
+OSM/欧诗漫	2
+拉面说	2
+dyson/戴森	2
+PRAMY/柏瑞美	2
+Clinique/倩碧	2
+LA MER/海蓝之谜	2
+361°	2
+eaoron	2
+Asics/亚瑟士	2
+依莱娜	2
+安记	2
+WMF	2
+lovo	2
+M＆G/晨光	1
+Fresh/馥蕾诗	1
+海狸先生	1
+绝世	1
+燕之屋	1
+Vinda/维达	1
+李子柒	1
+沫晗依美	1
+王饱饱	1
+Rocking zoo/摇滚动物园	1
+CPB	1
+固本堂	1
+熊孩子	1
+MAC/魅可	1
+Nivea/妮维雅	1
+凯瑞玛	1
+UNNY CLUB/悠宜	1
+Ladykin	1
+百年扁氏	1
+美康粉黛	1
+形象美	1
+Dickies	1
+美肤宝	1
+WETHERM/温碧泉	1
+七年五季	1
+有零有食	1
+酒鬼	1
+Avec moi	1
+JudydoLL/橘朵	1
+KUKa/顾家家居	1
+Aekyung/爱敬	1
+DARLIE/黑人	1
+RARONE/雷诺	1
+ANESSA/安热沙	1
+小度	1
+Clarins/娇韵诗	1
+SU:M37°/苏秘37°	1
+UNO/吾诺	1
+Dove/多芬	1
+吉香居	1
+汾酒	1
+朴西	1
+The Face Shop/菲诗小铺	1
+ISDIN/怡思丁	1
+CHIOTURE 稚优泉	1
+MERCURY/水星家纺	1
+Franic/法兰琳卡	1
+AIBEDILA/爱贝迪拉	1
+Guerlain/娇兰	1
+三元	1
+YESOUL/野小兽	1
+东北大妈	1
+Amos/亚摩斯	1
+丁戈树	1
+清风	1
+Robam/老板	1
+KONO	1
+立白	1
+WAHAHA/娃哈哈	1
+C＇CHOICE/采琪采	1
+沃隆	1
+SNP	1
+Dell/戴尔	1
+Nars/娜斯	1
+PERFECT DIARY/完美日记	1
+A.H.C/爱和纯	1
+Polo Sport	1
+老福黄金	1
+breo/倍轻松	1
+山本	1
+HUGGIES/好奇	1
+DJI/大疆	1
+膜法世家	1
+周黑鸭	1
+Colgate/高露洁	1
+red earth/红地球	1
+Abby's Choice/完子心选	1
+三个魔发匠	1
+seven7/柒牌	1
+Airmate/艾美特	1
+ECOVACS/科沃斯	1
+画法几何	1
+红小厨	1
+kaadas/凯迪仕	1
+雅萌	1
+Kong WENG/港荣	1
+植观	1
+Swarovski/施华洛世奇	1
+CATFOUR	1
+SCISHARE/心想	1
+ffit8	1
+PECHOIN/百雀羚	1
+Hawking/好易康	1
+SKYNFUTURE/肌肤未来	1
+有道	1
+Stridex	1
+舌里	1
+AOEO	1
+Fila/斐乐	1
+剑南春	1
+本该时鲜	1
+HANSKIN/韩斯清	1
+TIGER/虎牌	1
+Saky/舒客	1
+penfolds/奔富	1
+waterpik/洁碧	1

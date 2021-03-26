@@ -1,0 +1,173 @@
+10631532	AESTAR/中山凯达	中山凯达aestar/aestar中山凯达/aestar/中山凯达	100012	家庭清洁/纸品	25122.45000000
+10631532	AESTAR/中山凯达	中山凯达aestar/aestar中山凯达/aestar/中山凯达	100040	二手商品	0.0
+10554034	Seed/十度良品	十度良品/十度良品seed/seed十度良品/seed	100012	家庭清洁/纸品	6723.00000000
+10554034	Seed/十度良品	十度良品/十度良品seed/seed十度良品/seed	100040	二手商品	0.0
+7830374539	强生医药	强生医药	100012	家庭清洁/纸品	755.62500000
+7830374539	强生医药	强生医药	100040	二手商品	0.0
+10315703	Latue Seed/劳斯·帅特	latue seed/latueseed/劳斯·帅特	100018	箱包皮具	151844.20000000
+10315703	Latue Seed/劳斯·帅特	latue seed/latueseed/劳斯·帅特	100040	二手商品	0.0
+10929594	HORIEN/海俪恩	海俪恩/horien/horien海俪恩/海俪恩horien	100006	服饰内衣	2180557.98620000
+10929594	HORIEN/海俪恩	海俪恩/horien/horien海俪恩/海俪恩horien	100040	二手商品	0.0
+11029701	众安凯达	众安凯达	100006	服饰内衣	344264.00000000
+11029701	众安凯达	众安凯达	100040	二手商品	0.0
+10372128	京源凯达	京源凯达	100006	服饰内衣	157282.00000000
+10372128	京源凯达	京源凯达	100040	二手商品	0.0
+10975538	MOODY TIGER	moodytiger/moody tiger	100006	服饰内衣	14326.00000000
+10975538	MOODY TIGER	moodytiger/moody tiger	100040	二手商品	0.0
+10103154	Les Envie bijoux/昂维珠宝	昂维珠宝lesenviebijoux/les envie bijoux昂维珠宝/昂维珠宝/lesenviebijoux/昂维珠宝les envie bijoux/les envie bijoux/lesenviebijoux昂维珠宝	100024	珠宝首饰	20170.00000000
+10103154	Les Envie bijoux/昂维珠宝	昂维珠宝lesenviebijoux/les envie bijoux昂维珠宝/昂维珠宝/lesenviebijoux/昂维珠宝les envie bijoux/les envie bijoux/lesenviebijoux昂维珠宝	100040	二手商品	0.0
+10066331	KeeSoo/晶硕	晶硕keesoo/keesoo/晶硕/keesoo晶硕	100028	电脑、办公	159308.90000000
+10066331	KeeSoo/晶硕	晶硕keesoo/keesoo/晶硕/keesoo晶硕	100040	二手商品	0.0
+12653528	SEEDEN	seeden	100031	家用电器	469548.30340000
+12653528	SEEDEN	seeden	100040	二手商品	0.0
+10554034	Seed/十度良品	十度良品/十度良品seed/seed十度良品/seed	100031	家用电器	331436.73970000
+7830374539	强生医药	强生医药	100009	母婴童装	7986605.93770000
+10335068	honey seed	honey seed/honeyseed	100009	母婴童装	2663893.04750000
+10335068	honey seed	honey seed/honeyseed	100040	二手商品	0.0
+10975538	MOODY TIGER	moodytiger/moody tiger	100009	母婴童装	2186998.71820000
+10710592	ISEEDEAR	iseedear	100009	母婴童装	64887.70310000
+10710592	ISEEDEAR	iseedear	100040	二手商品	0.0
+10937183	SEED/实瞳	seed实瞳/实瞳seed/seed/实瞳	-99	其他	53228.00000000
+10937183	SEED/实瞳	seed实瞳/实瞳seed/seed/实瞳	100040	二手商品	0.0
+10937952	KD/凯达	kd/凯达/kd凯达/凯达kd	-99	其他	23970.00000000
+10937952	KD/凯达	kd/凯达/kd凯达/凯达kd	100040	二手商品	0.0
+7830374539	强生医药	强生医药	100016	个人护理	1293674.76120000
+10664287	COLORSEED	colorseed	100016	个人护理	11796.60000000
+10664287	COLORSEED	colorseed	100040	二手商品	0.0
+10132056	SEEDORY/种子宣言	种子宣言/seedory种子宣言/种子宣言seedory/seedory	100016	个人护理	336.00000000
+10132056	SEEDORY/种子宣言	种子宣言/seedory种子宣言/种子宣言seedory/seedory	100040	二手商品	0.0
+10066331	KeeSoo/晶硕	晶硕keesoo/keesoo/晶硕/keesoo晶硕	100034	家装建材	61780.00000000
+10492536	Seeddesign/喜的	seeddesign/seeddesign喜的/喜的/喜的seeddesign	100034	家装建材	31085.00000000
+10492536	Seeddesign/喜的	seeddesign/seeddesign喜的/喜的/喜的seeddesign	100040	二手商品	0.0
+10700251	富凯达	富凯达	100034	家装建材	223.00000000
+10700251	富凯达	富凯达	100040	二手商品	0.0
+10631532	AESTAR/中山凯达	中山凯达aestar/aestar中山凯达/aestar/中山凯达	100014	家居日用	30370.19160000
+10128204	博士伦	博士伦	100032	医药保健	106345161.91980000
+10128204	博士伦	博士伦	100040	二手商品	0.0
+10344136	海昌	海昌	100032	医药保健	80328478.18930000
+10344136	海昌	海昌	100040	二手商品	0.0
+7830374539	强生医药	强生医药	100032	医药保健	57027471.75400000
+10929594	HORIEN/海俪恩	海俪恩/horien/horien海俪恩/海俪恩horien	100032	医药保健	40127486.71750000
+10505159	可啦啦	可啦啦	100032	医药保健	25231301.12920000
+10505159	可啦啦	可啦啦	100040	二手商品	0.0
+34353221	Moody	moody	100032	医药保健	17776843.05000000
+34353221	Moody	moody	100040	二手商品	0.0
+10871952	米塔塔	米塔塔	100032	医药保健	12772951.31210000
+10871952	米塔塔	米塔塔	100040	二手商品	0.0
+11031409	COFANCY	cofancy	100032	医药保健	14301603.00000000
+11031409	COFANCY	cofancy	100040	二手商品	0.0
+10937112	Pegavision/晶硕	晶硕/晶硕pegavision/pegavision晶硕/pegavision	100032	医药保健	11376584.13120000
+10937112	Pegavision/晶硕	晶硕/晶硕pegavision/pegavision晶硕/pegavision	100040	二手商品	0.0
+10983541	LaPeche/安目瞳	lapeche安目瞳/lapeche/安目瞳/安目瞳lapeche	100032	医药保健	13114926.72910000
+10983541	LaPeche/安目瞳	lapeche安目瞳/lapeche/安目瞳/安目瞳lapeche	100040	二手商品	0.0
+10937952	KD/凯达	kd/凯达/kd凯达/凯达kd	100032	医药保健	10704776.94120000
+10660927	Hyper Size/大美目	大美目/hyper size/hypersize/大美目hypersize/大美目hyper size/hyper size大美目/hypersize大美目	100032	医药保健	7426771.19440000
+10660927	Hyper Size/大美目	大美目/hyper size/hypersize/大美目hypersize/大美目hyper size/hyper size大美目/hypersize大美目	100040	二手商品	0.0
+10937161	candy magic	candymagic/candy magic	100032	医药保健	7872125.33960000
+10937161	candy magic	candymagic/candy magic	100040	二手商品	0.0
+10937183	SEED/实瞳	seed实瞳/实瞳seed/seed/实瞳	100032	医药保健	7255426.13580000
+10937616	绮芙莉	绮芙莉	100032	医药保健	7923222.66220000
+10937616	绮芙莉	绮芙莉	100040	二手商品	0.0
+10936949	艾乐视	艾乐视	100032	医药保健	7085885.52770000
+10936949	艾乐视	艾乐视	100040	二手商品	0.0
+11026055	envie	envie	100032	医药保健	6067154.50010000
+11026055	envie	envie	100040	二手商品	0.0
+10937561	爱谢	爱谢	100032	医药保健	4308082.13360000
+10937561	爱谢	爱谢	100040	二手商品	0.0
+10939083	POP Magic/流行魔法	pop magic/流行魔法popmagic/popmagic/pop magic流行魔法/流行魔法pop magic/流行魔法/popmagic流行魔法	100032	医药保健	4084038.53920000
+10939083	POP Magic/流行魔法	pop magic/流行魔法popmagic/popmagic/pop magic流行魔法/流行魔法pop magic/流行魔法/popmagic流行魔法	100040	二手商品	0.0
+11030829	4INLOOK/美目美佳	4inlook/美目美佳4inlook/美目美佳/4inlook美目美佳	100032	医药保健	3096816.68120000
+11030829	4INLOOK/美目美佳	4inlook/美目美佳4inlook/美目美佳/4inlook美目美佳	100040	二手商品	0.0
+10490781	Cnkaite/世纪凯达	世纪凯达/世纪凯达cnkaite/cnkaite世纪凯达/cnkaite	100032	医药保健	403610.69400000
+10490781	Cnkaite/世纪凯达	世纪凯达/世纪凯达cnkaite/cnkaite世纪凯达/cnkaite	100040	二手商品	0.0
+10066331	KeeSoo/晶硕	晶硕keesoo/keesoo/晶硕/keesoo晶硕	100032	医药保健	37937.40290000
+10664287	COLORSEED	colorseed	100007	美妆护肤	161472.22490000
+7830374539	强生医药	强生医药	100007	美妆护肤	4441.28000000
+10660927	Hyper Size/大美目	大美目/hyper size/hypersize/大美目hypersize/大美目hyper size/hyper size大美目/hypersize大美目	100007	美妆护肤	2451.00000000
+10132056	SEEDORY/种子宣言	种子宣言/seedory种子宣言/种子宣言seedory/seedory	100007	美妆护肤	537.00000000
+10700251	富凯达	富凯达	100025	厨具	50972.50000000
+10983541	LaPeche/安目瞳	lapeche安目瞳/lapeche/安目瞳/安目瞳lapeche	100015	礼品	89251.50000000
+10929594	HORIEN/海俪恩	海俪恩/horien/horien海俪恩/海俪恩horien	100015	礼品	14688.90000000
+10505159	可啦啦	可啦啦	100015	礼品	72.00000000
+10344136	海昌	海昌	100015	礼品	59.50000000
+11027829	5°C（HORIEN5°C）	5°chorien5°c/horien5°c5°c/horien5°c/5°c	100010	食品饮料	1075503.90660000
+11027829	5°C（HORIEN5°C）	5°chorien5°c/horien5°c5°c/horien5°c/5°c	100040	二手商品	0.0
+10583700	HORIEN/活力恩	活力恩horien/活力恩/horien/horien活力恩	100010	食品饮料	814750.93100000
+10583700	HORIEN/活力恩	活力恩horien/活力恩/horien/horien活力恩	100040	二手商品	0.0
+10321885	MELON SEEDS/疯嗑	疯嗑melonseeds/疯嗑/melon seeds/melon seeds疯嗑/melonseeds疯嗑/疯嗑melon seeds/melonseeds	100010	食品饮料	16796.16000000
+10321885	MELON SEEDS/疯嗑	疯嗑melonseeds/疯嗑/melon seeds/melon seeds疯嗑/melonseeds疯嗑/疯嗑melon seeds/melonseeds	100040	二手商品	0.0
+10695990	FASEED	faseed	100029	汽车用品	2531938.67260000
+10695990	FASEED	faseed	100040	二手商品	0.0
+10649959	永凯达	永凯达	100029	汽车用品	89491.35000000
+10649959	永凯达	永凯达	100040	二手商品	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100012	家庭清洁/纸品	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100012	家庭清洁/纸品	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100030	宠物生活	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100030	宠物生活	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100018	箱包皮具	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100018	箱包皮具	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100006	服饰内衣	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100006	服饰内衣	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100028	电脑、办公	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100028	电脑、办公	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100001	鞋靴	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100001	鞋靴	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100011	家纺	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100011	家纺	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100003	酒类	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100003	酒类	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100031	家用电器	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100031	家用电器	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100009	母婴童装	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100009	母婴童装	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100027	数码	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100027	数码	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100040	二手商品	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100040	二手商品	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	-99	其他	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	-99	其他	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100035	手机及配件	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100016	个人护理	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100016	个人护理	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100034	家装建材	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100034	家装建材	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100008	运动户外	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100008	运动户外	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100026	玩具乐器	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100026	玩具乐器	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100023	钟表	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100023	钟表	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100014	家居日用	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100014	家居日用	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100032	医药保健	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100032	医药保健	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100007	美妆护肤	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100007	美妆护肤	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100025	厨具	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100025	厨具	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100015	礼品	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100015	礼品	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100033	家具	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100033	家具	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100010	食品饮料	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100010	食品饮料	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100029	汽车用品	0.0
+10698337	Redmi/红米	Redmi/红米/Redmi红米/红米Redmi	100029	汽车用品	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100031	家用电器	0.0
+10698337	MJ/米家	米家/米家MJ/MJ小米米家/MJ/小米米家MJ/小米米家/MJ米家	100034	家装建材	0.0
+10766953	Bosideng/波司登	波司登/波司登Bosideng/Bosideng/Bosideng波司登	100008	运动户外	0.0
+10253230	MARSSENGER/火星人	MARSSENGER/MARSSENGER火星人/火星人MARSSENGER/火星人	100014	家居日用	0.0
+10790422	左点	左点	100008	运动户外	0.0
+10790422	左点	左点	100034	家装建材	0.0
+10157092	Three Squirrels/三只松鼠	三只松鼠ThreeSquirrels/ThreeSquirrels/Three Squirrels三只松鼠/三只松鼠Three Squirrels/Three Squirrels/三只松鼠/ThreeSquirrels三只松鼠	100012	家庭清洁/纸品	0.0
+10424614	良品铺子	良品铺子	100042	生活服务	0.0
+10292037	金龙鱼	金龙鱼	100012	家庭清洁/纸品	0.0
+7830374551	奢姿（SHEZI）	奢姿/SHEZI/奢姿SHEZI/SHEZI奢姿	100007	美妆护肤	0.0
+7830374550	blispring/冰泉	冰泉blispring/blispring/冰泉/blispring冰泉	100016	个人护理	0.0
+7830374550	blispring/冰泉	冰泉blispring/blispring/冰泉/blispring冰泉	100007	美妆护肤	0.0
+7830374549	PLUS RAPIDE	PLUSRAPIDE/PLUS RAPIDE/GXG旗下PR/GXG旗下男装PR/GXG旗下品牌PR	100006	服饰内衣	0.0
+7830374549	PLUS RAPIDE	PLUSRAPIDE/PLUS RAPIDE/GXG旗下PR/GXG旗下男装PR/GXG旗下品牌PR	100008	运动户外	0.0
+7830374549	PLUS RAPIDE	PLUSRAPIDE/PLUS RAPIDE/GXG旗下PR/GXG旗下男装PR/GXG旗下品牌PR	100001	鞋靴	0.0
+99714457	LOORA PWD/罗拉密码	LOORA PWD/LOORA PWD罗拉密码/罗拉密码LOORAPWD/LOORAPWD罗拉密码/LOORAPWD/罗拉密码LOORA PWD/罗拉密码	100006	服饰内衣	0.0
+99714457	LOORA PWD/罗拉密码	LOORA PWD/LOORA PWD罗拉密码/罗拉密码LOORAPWD/LOORAPWD罗拉密码/LOORAPWD/罗拉密码LOORA PWD/罗拉密码	100001	鞋靴	0.0
+11015914	ROYALAPOTHIC/泊诗蔻	泊诗蔻/ROYALAPOTHIC/ROYALAPOTHIC泊诗蔻/泊诗蔻ROYALAPOTHIC	100007	美妆护肤	0.0
